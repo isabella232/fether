@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="23px" height="22px" viewBox="0 0 23 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
-    <title>Untitled 6</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="receive" transform="translate(1.000000, 0.000000)" stroke="#000000" stroke-width="2">
-            <path d="M10.5,0.309506065 L10.5,12.9679533" id="Shape"></path>
-            <polyline id="Shape" points="6.2227719 8.7851691 10.4803017 13.1546824 14.8012607 8.83372338"></polyline>
-            <polyline id="Shape" points="13.782869 2.97552169 20.0741802 2.97552169 20.0741802 20.3721994 0.888446437 20.3721994 0.888446437 2.97552169 7.32897967 2.97552169"></polyline>
-            <polygon id="Shape" fill="#000000" points="1.40304061 14.8031492 6.56868151 14.8031492 6.63020495 18.8140283 14.458297 18.8140283 14.458297 14.8031492 19.972182 14.8031492 19.972182 20.2081983 1.40304061 20.2081983"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="22" version="1.1" viewBox="0 0 23 22"><title>Untitled 6</title><desc>Created with Sketch.</desc><g id="Page-1" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="receive" stroke="#000" stroke-width="2" transform="translate(1.000000, 0.000000)"><path id="Shape" d="M10.5,0.309506065 L10.5,12.9679533"/><polyline id="Shape" points="6.223 8.785 10.48 13.155 14.801 8.834"/><polyline id="Shape" points="13.783 2.976 20.074 2.976 20.074 20.372 .888 20.372 .888 2.976 7.329 2.976"/><polygon id="Shape" fill="#000" points="1.403 14.803 6.569 14.803 6.63 18.814 14.458 18.814 14.458 14.803 19.972 14.803 19.972 20.208 1.403 20.208"/></g></g></svg>
